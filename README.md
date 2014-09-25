@@ -11,6 +11,8 @@ cd skineditor
 ./gradlew run
 ```
 
+.. image:: https://raw.githubusercontent.com/gunmetal313/gdx-skineditor/master/img/shots/img1.png
+
 *** You could also use the distribution zip file from DIST folder. ***
 
 
