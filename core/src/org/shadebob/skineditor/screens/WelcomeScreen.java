@@ -32,6 +32,7 @@ public class WelcomeScreen implements Screen {
 	public WelcomeScreen(SkinEditorGame game) {
 		this.game = game;
 		stage = new Stage(new ScreenViewport());
+		stage.setDebugAll(true);
 	}
 
 	@Override
@@ -41,7 +42,6 @@ public class WelcomeScreen implements Screen {
 
 		stage.act(delta);
 		stage.draw();
-		Table.drawDebug(stage);
 
 	}
 
