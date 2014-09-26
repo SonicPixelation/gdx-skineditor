@@ -16,6 +16,7 @@
 package org.shadebob.skineditor.actors;
 
 import org.shadebob.skineditor.SkinEditorGame;
+
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.ui.ButtonGroup;
 import com.badlogic.gdx.scenes.scene2d.ui.ImageButton;

@@ -16,9 +16,7 @@
 package org.shadebob.skineditor;
 
 import java.io.File;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.TreeSet;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.utils.Array;

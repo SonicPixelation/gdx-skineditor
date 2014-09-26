@@ -15,16 +15,12 @@
  ******************************************************************************/
 package org.shadebob.skineditor.desktop;
 
-import java.io.File;
-
-import javax.swing.LookAndFeel;
 import javax.swing.UIManager;
 
-import com.badlogic.gdx.Gdx;
+import org.shadebob.skineditor.SkinEditorGame;
+
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-
-import org.shadebob.skineditor.SkinEditorGame;
 
 /**
  * Desktop launcher class
