@@ -102,7 +102,7 @@ public class NinePatchEditorDialog extends Dialog {
 				// Need to steal focus first with this hack (Thanks to Z-Man)
 				Frame frame = new Frame();
 				frame.setUndecorated(true);
-				frame.setOpacity(0);
+				// TODO fix falls frame.setOpacity(0);
 				frame.setLocationRelativeTo(null);
 				frame.setVisible(true);
 				frame.toFront();
