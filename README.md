@@ -1,6 +1,8 @@
 gdx-skineditor
 ==============
 
+[![Build Status](https://drone.io/github.com/gunmetal313/gdx-skineditor/status.png)](https://drone.io/github.com/gunmetal313/gdx-skineditor/latest)
+
 A skin editor for libgdx 0.3
 
 Easy way to make it run (from console):
