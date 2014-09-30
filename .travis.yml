@@ -1,0 +1,11 @@
+language: java
+jdk:
+  - oraclejdk7
+  
+script: 
+  - ./gradlew build
+  - ./gradlew dist
+
+notifications:
+ email: false
+ 
